@@ -1,0 +1,17 @@
+{
+    "name": "buqiu/laravel-oss",
+    "description": "Laravel5.4 上传阿里云oss服务项目",
+    "type": "project",
+    "require": {
+        "php": ">=5.6.4",
+        "aliyuncs/oss-sdk-php": "^2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "董坤鸿",
+            "email": "249529979@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
